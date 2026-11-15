@@ -1,0 +1,47 @@
+{
+  "generation": 5,
+  "current": {
+    "open_psid": "94778bd07fd5f79aeeeb524469244618",
+    "console_id": "1c87d70e029d5ac3c466977d71d15517",
+    "psid": "b2d6e2443a0928d999e66666a0e17482",
+    "serial": "MB5111837642",
+    "created": "2026-11-15 04:32:22"
+  },
+  "history": [
+    {
+      "open_psid": "6ced2be4ef6b832bdd00c9f9548fad48",
+      "console_id": "a1569a527762deaf0e1942c721fd0e09",
+      "psid": "3dc8ebc2bff12cd38f13f0dd0afeef11",
+      "serial": "MB0313705014",
+      "created": "2026-11-15 04:26:30"
+    },
+    {
+      "open_psid": "2606d9c03f6f05a504584d97559fde30",
+      "console_id": "f975b5520a00acc6a95eb40ad77e1db5",
+      "psid": "013eca16c45f8ccb41782d7f08e40603",
+      "serial": "MB1287705934",
+      "created": "2026-11-15 04:26:48"
+    },
+    {
+      "open_psid": "f95bb81a469db93f1559208818ff00bc",
+      "console_id": "9d95179381e5ac51c51e4ee0310937d0",
+      "psid": "9f001013fd53ad1e5347b5ecef28de49",
+      "serial": "MB3143263482",
+      "created": "2026-11-15 04:30:22"
+    },
+    {
+      "open_psid": "0e8a668e71217521deb69e3e3f6d9455",
+      "console_id": "5b8927b2dd64fe2999e9a83f9f7445b4",
+      "psid": "968d150112853a3c24dbc6908ff38dfa",
+      "serial": "MB6508271529",
+      "created": "2026-11-15 04:31:28"
+    },
+    {
+      "open_psid": "94778bd07fd5f79aeeeb524469244618",
+      "console_id": "1c87d70e029d5ac3c466977d71d15517",
+      "psid": "b2d6e2443a0928d999e66666a0e17482",
+      "serial": "MB5111837642",
+      "created": "2026-11-15 04:32:22"
+    }
+  ]
+}

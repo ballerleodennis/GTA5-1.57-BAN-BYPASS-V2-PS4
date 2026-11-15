@@ -1,0 +1,4 @@
+# GTA Online Telemetrie-Shield - hosts
+0.0.0.0 prod.telemetry.ros.rockstargames.com
+0.0.0.0 telemetry.ros.rockstargames.com
+0.0.0.0 prod.telemetry2.ros.rockstargames.com

@@ -1,0 +1,3 @@
+; GTA V 1.57
+[CUSA00419] /data/GoldHEN/plugins/ScorpionMenu-v1.57.prx=true
+[CUSA00411] /data/GoldHEN/plugins/ScorpionMenu-v1.57.prx=true
